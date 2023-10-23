@@ -137,7 +137,7 @@ auth:
   #     # The OAuth 2.0 Client ID
   #     client_id: uptrace
   #     # The OAuth 2.0 Client Secret
-  #     client_secret: ogbhd8Q0X0e5AZFGSG3m9oirPvnetqkB
+  #     client_secret: agbhd8Q0X0e5AZFGSG3m9oirPvnetqkB
   #     # Additional OAuth 2.0 scopes to request from the OIDC provider.
   #     # Defaults to 'profile'. 'openid' is requested by default and need not be specified.
   #     scopes:
