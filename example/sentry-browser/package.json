@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@sentry/browser": "^7.46.0"
+    "@sentry/browser": "^7.90.0"
   }
 }
