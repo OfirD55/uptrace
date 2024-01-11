@@ -18,7 +18,7 @@
     "color": "4.2.3",
     "core-js": "3.26.0",
     "date-fns": "2.29.3",
-    "echarts": "5.4.0",
+    "echarts": "5.4.3",
     "element-resize-detector": "1.2.4",
     "fuzzaldrin-plus": "^0.6.0",
     "gridstack": "^7.2.3",
